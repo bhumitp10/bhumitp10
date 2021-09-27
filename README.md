@@ -1,4 +1,4 @@
-### Hi there 👋
+### Senior CS Student Graduating by May 2022.
 
 <!--
 **bhumitp10/bhumitp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
